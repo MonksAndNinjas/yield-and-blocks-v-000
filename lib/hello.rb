@@ -4,6 +4,7 @@ def hello_t(array)
     puts array[i]
     i += 1
   end
+  array
 end
 
 # call your method here!
