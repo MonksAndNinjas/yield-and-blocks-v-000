@@ -13,6 +13,6 @@ def hello_t(array)
 end
 
 # call your method here!
-hello_t(array2) do |name|
+hello_t(array_new) do |name|
   puts name.upcase
 end
