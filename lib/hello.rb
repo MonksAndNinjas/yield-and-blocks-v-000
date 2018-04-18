@@ -10,3 +10,4 @@ end
 # call your method here!
 hello_t(array) do |element|
   puts "#{array[i]}"
+end
