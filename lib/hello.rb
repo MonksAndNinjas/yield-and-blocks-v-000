@@ -9,5 +9,5 @@ end
 
 # call your method here!
 hello_t(array) do |element|
-  puts "element"
+  puts "#{element}"
 end
