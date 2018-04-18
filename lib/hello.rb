@@ -1,3 +1,4 @@
+
 def hello_t(array)
   if block_given?
     i = 0
@@ -13,6 +14,6 @@ def hello_t(array)
 end
 
 # call your method here!
-hello_t(other_names) do |name|
+hello_t(other_array) do |name|
   puts name.upcase
 end
