@@ -15,5 +15,5 @@ end
 
 # call your method here!
 hello_t(array) do |name|
-  puts "#{name}
+  puts "#{name}"
 end
