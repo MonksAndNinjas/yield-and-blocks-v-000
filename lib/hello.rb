@@ -14,6 +14,6 @@ def hello_t(array)
 end
 
 # call your method here!
-hello_t(other_array) do |name|
+hello_t([Tim, Tom, Jim]) do |name|
   puts name.upcase
 end
